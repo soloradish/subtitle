@@ -1,0 +1,4 @@
+cron:
+- description: Fetch available subtitle
+  url: /task/fetchsubtitle
+  schedule: every 2 hours
